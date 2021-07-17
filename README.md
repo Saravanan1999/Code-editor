@@ -1,5 +1,5 @@
 # Code Editor
-The code editor can used to Edit HTML, CSS and JavaScript codes.
+The code editor can be used to Edit HTML, CSS and JavaScript.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
